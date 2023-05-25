@@ -1,0 +1,89 @@
+Mono path[0] = 'C:/Users/yutaxxx/projects/DonkeySimWin/donkey_sim_Data/Managed'
+Mono config path = 'C:/Users/yutaxxx/projects/DonkeySimWin/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path C:/Users/yutaxxx/projects/DonkeySimWin/donkey_sim_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA Quadro P400 (ID=0x1cb3)
+    Vendor:   
+    VRAM:     1980 MB
+    Driver:   31.0.15.2741
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.079 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.686500 ms
+SDSandbox Server starting.
+
+Server Listening on: 0.0.0.0:9091
+
+Waiting for a connection...
+
+SDSandbox Server starting.
+
+Server Listening on: 0.0.0.0:9092
+
+Waiting for a connection...
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 26a4 -> priority: 1 
+  Thread -> id: 26cc -> priority: 1 
+  Thread -> id: 2d58 -> priority: 1 
+Waiting for a connection...
+
+client connected.
+
+mini_monaco
+
+loaded scene
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.091300 ms
+JustOne removing instance.MainThDisp
+
+JustOne removing instance.SandboxServer
+
+JustOne removing instance.SandboxPrivateAPIServer
+
+Added timer
+
+car loaded.
+
+Got car config message
+
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 6485.
+Total: 3.054100 ms (FindLiveObjects: 0.379500 ms CreateObjectMapping: 0.193300 ms MarkObjects: 1.510300 ms  DeleteObjects: 0.970600 ms)
+
+Setting car config.
+
+Exception on recv. Connection dropped.
+
+removed timer
+
+removed split screen camera
+
+Removed car
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTiServer stopped.
+
+Server stopped.
+
+ance.MainThDisp
+
+JustOne removing instance.SandboxServer
+
+JustOne removing instance.SandboxPrivateAPIServer
+
+
+Unloading 1173 unused Assets to reduce memory usage. Loaded Objects now: 1123.
+Total: 2.470600 ms (FindLiveObjects: 0.107300 ms CreateObjectMapping: 0.069300 ms MarkObjects: 1.047300 ms  DeleteObjects: 1.246500 ms)
+
+Server stopped.
+
+Server stopped.
+

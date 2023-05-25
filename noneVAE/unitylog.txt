@@ -1,0 +1,42 @@
+Mono path[0] = 'C:/Users/yutaxxx/projects/DonkeySimWin/donkey_sim_Data/Managed'
+Mono config path = 'C:/Users/yutaxxx/projects/DonkeySimWin/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path C:/Users/yutaxxx/projects/DonkeySimWin/donkey_sim_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA Quadro P400 (ID=0x1cb3)
+    Vendor:   
+    VRAM:     1980 MB
+    Driver:   31.0.15.2741
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.082 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.297700 ms
+SDSandbox Server starting.
+
+SocketException: Address already in use
+  at System.Net.Sockets.Socket.Bind (System.Net.EndPoint localEP) [0x00043] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+  at tk.TcpServer.Bind (System.String ip, System.Int32 port) [0x00022] in <57939203a807418a91050b3302118a10>:0 
+  at tk.TcpServer.Run (System.String ip, System.Int32 port) [0x00000] in <57939203a807418a91050b3302118a10>:0 
+  at SandboxServer.Start () [0x0005e] in <57939203a807418a91050b3302118a10>:0 
+
+SDSandbox Server starting.
+
+SocketException: Address already in use
+  at System.Net.Sockets.Socket.Bind (System.Net.EndPoint localEP) [0x00043] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+  at tk.TcpServer.Bind (System.String ip, System.Int32 port) [0x00022] in <57939203a807418a91050b3302118a10>:0 
+  at tk.TcpServer.Run (System.String ip, System.Int32 port) [0x00000] in <57939203a807418a91050b3302118a10>:0 
+  at SandboxServer.Start () [0x0005e] in <57939203a807418a91050b3302118a10>:0 
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 1a20 -> priority: 1 
+  Thread -> id: 53b0 -> priority: 1 
+  Thread -> id: 45ac -> priority: 1 
+Server stopped.
+
+Server stopped.
+
